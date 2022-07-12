@@ -1,4 +1,5 @@
-### Hi there 👋
+<img width="25%" src="under_construction.jpg">
+
 
 <!--
 **ThalesCarl/thalescarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
