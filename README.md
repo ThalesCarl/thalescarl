@@ -1,4 +1,4 @@
-<img width="25%" src="under_construction.png">
+<img width="25%" src="under_construction_just_figure.png">
 
 # About me
 
