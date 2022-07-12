@@ -1,6 +1,10 @@
 <img width="25%" src="under_construction.jpg">
 
+# About me
 
+# Contact
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='Linkedin' height='30'>](http://linkedin.com/in/thalescarl)
 <!--
 **ThalesCarl/thalescarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
