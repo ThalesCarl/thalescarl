@@ -1,8 +1,8 @@
-# Under construction
-
-<img width="25%" src="under_construction_just_figure.png">
-
 # About me
+
+🔭 A mechanical engineer who loves programming, robotics and fluid simulations. Experience with C++ and Python programming languages, focused mainly on numerical analysis
+
+🌱 I’m currently learning graphics and backend development.
 
 # Contact
 
