@@ -1,8 +1,8 @@
 # About me
 
-🔭 A mechanical engineer who loves programming, robotics and fluid simulations. Experience with C++ and Python programming languages, focused mainly on numerical analysis
+🔭 A mechanical engineer who loves programming, robotics and fluid simulations. Experience with C++ and Python programming languages, focused mainly on numerical analysis. Now, learning Rust as well.
 
-🌱 I’m currently learning graphics and backend development.
+🌱 I’m currently studying computer graphics and numerical development.
 
 # Contact
 
