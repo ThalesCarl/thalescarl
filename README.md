@@ -1,4 +1,11 @@
 # About me
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Profile Views](https://komarev.com/ghpvc/?username=ThalesCarl&color=blue)
+
 
 🔭 A mechanical engineer who loves programming, robotics and fluid simulations. Experience with C++ and Python programming languages, focused mainly on numerical analysis. Now, learning Rust.
 
